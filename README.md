@@ -6,7 +6,7 @@ This project is a modular backend system that automates repetitive pharmacy task
 
 ## Project Folder Structure
 
-
+```
 pharmacy-rpa-middleware/
 ├── bot_engine/          # Bot automation logic (keyboard/mouse control)
 ├── data_extractor/      # OCR + field extraction
@@ -22,7 +22,7 @@ pharmacy-rpa-middleware/
 ├── requirements.txt
 └── run.py
 
-
+```
 ---
 
 ## How It Works (Backend Only)
