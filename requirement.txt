@@ -1,0 +1,28 @@
+Requirement.txt
+# OCR & NLP
+pytesseract==0.3.10
+Pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+spacy==3.7.2
+regex==2023.12.25
+ 
+# 🤖 Bot Automation
+pyautogui==0.9.54
+pygetwindow==0.0.9
+pyperclip==1.8.2
+pywinauto==0.6.8
+ 
+# 🌐 Flask API (Controller)
+Flask==3.0.2
+flask-cors==4.0.0
+ 
+# 📋 Background Scheduling
+schedule==1.2.1
+watchdog==4.0.0
+ 
+# 🔧 Configuration & Environment
+python-dotenv==1.0.1
+ 
+# 🧪 Testing
+pytest==8.1.1
